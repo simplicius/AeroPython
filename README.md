@@ -27,6 +27,8 @@ DOI: [10.6084/m9.figshare.1004727.v5](https://doi.org/10.6084/m9.figshare.100472
 
 * [Quick Python Intro](http://nbviewer.ipython.org/urls/github.com/barbagroup/AeroPython/blob/master/lessons/00_Lesson00_QuickPythonIntro.ipynb)
 
+Here is the secret of life: $E=mc^2$
+
 ### Module 1. Building blocks of potential flow
 
 1. [Source & Sink](http://nbviewer.ipython.org/urls/github.com/barbagroup/AeroPython/blob/master/lessons/01_Lesson01_sourceSink.ipynb)
